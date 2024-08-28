@@ -1,7 +1,4 @@
 
-# ~= means that the version must be compatible with the major version listed, 
-# allowing upgrades within this version but not beyond it
-
 # General (to be split up when there are more dependencies)
 pandas>=2.2.2
 python-box>=7.2.0
@@ -11,6 +8,7 @@ geopandas>=0.14.4
 pygeoprocessing>=2.4.4
 
 # Code formatting, typing and linting
+pre-commit>=3.8.0
 black>=24.8.0
 flake8>=7.1.1
 flake8-docstrings>=1.7.0
@@ -19,6 +17,5 @@ pep8-naming>=0.14.1
 autopep8>=2.3.1
 mypy>=1.11.2
 types-pyyaml>=6.0.12.20240808
-pre-commit>=3.8.0
 isort>=5.13.2
 pyupgrade>=3.17.0
