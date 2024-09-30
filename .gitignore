@@ -1,3 +1,6 @@
+# Archive folder with old code
+/originals/
+
 # Python
 __pycache__/
 *.py[cod]
