@@ -2,7 +2,7 @@
 python-box>=7.2.0
 
 # Data processing
-numpy>=1.26.4
+numpy>=1.26.4,<2.0  # compatible with pygeoprocessing
 pandas>=2.2.3
 
 # Geoprocessing
