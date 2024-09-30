@@ -10,7 +10,7 @@ To get started, create a project folder on your local machine and clone the repo
 ```bash
 mkdir <folder_name>
 cd <folder_name>
-git clone https://github.com/j-nystrom/nature-impact-factors.git
+git clone https://github.com/j-nystrom/ecosystem-impact-factors.git
 ```
 
 ### 2. Set up a virtual environment
