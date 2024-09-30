@@ -16,13 +16,12 @@ natcap.invest>=3.14.2
 # Code formatting, typing and linting
 pre-commit>=3.8.0
 black>=24.8.0
-jupyter-black>=0.4.0
 flake8>=7.1.1
 flake8-docstrings>=1.7.0
 flake8-rst-docstrings>=0.3.0
 pep8-naming>=0.14.1
 autopep8>=2.3.1
 mypy>=1.11.2
-types-pyyaml>=6.0.12.20240808
+types-pyyaml>=6.0.12.20240917
 isort>=5.13.2
 pyupgrade>=3.17.0

@@ -18,7 +18,7 @@ git clone https://github.com/j-nystrom/ecosystem-impact-factors.git
 To manage the dependencies of the project, it's recommended that you use a virtual environment. To create a ``conda`` environment with a ``Python`` installation:
 
 ```bash
-conda create --name <env_name> python=3.12
+conda create --name <env_name> python=3.11
 conda activate <env_name>
 ```
 
