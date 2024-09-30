@@ -1,14 +1,22 @@
-
-# General (to be split up when there are more dependencies)
-pandas>=2.2.2
+# General
 python-box>=7.2.0
+
+# Data processing
 numpy>=1.26.4
-geopandas>=0.14.4
-pygeoprocessing>=2.4.4
+pandas>=2.2.3
+
+# Geoprocessing
+rasterio>=1.4.0
+geopandas>=1.0.1
+pygeoprocessing>=2.4.0
+
+# Modeling
+natcap.invest>=3.14.2
 
 # Code formatting, typing and linting
 pre-commit>=3.8.0
 black>=24.8.0
+jupyter-black>=0.4.0
 flake8>=7.1.1
 flake8-docstrings>=1.7.0
 flake8-rst-docstrings>=0.3.0
