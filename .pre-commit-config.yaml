@@ -1,4 +1,4 @@
-
+exclude: ^archive/
 repos:
 
   # Standard pre-commit hooks
