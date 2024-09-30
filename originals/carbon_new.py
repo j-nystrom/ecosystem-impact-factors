@@ -1,11 +1,11 @@
 import os
 
-import geopandas as gpd
-import numpy as np
-from osgeo import gdal
 import pandas as pd
-import pygeoprocessing.geoprocessing as pygeo
+import numpy as np
+import geopandas as gpd
+from osgeo import gdal
 from osgeo import osr
+import pygeoprocessing.geoprocessing as pygeo
 
 
 def execute(args):
