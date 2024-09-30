@@ -1,0 +1,7 @@
+dags:
+  - name: land_use
+    tasks:
+      - core.data.lulc_task.CurrentLandUseTask
+  - name: potential_veg
+    tasks:
+      - core.data.potential_veg_task.PotentialVegetationTask
