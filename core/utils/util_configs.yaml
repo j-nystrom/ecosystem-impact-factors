@@ -1,0 +1,4 @@
+
+logger_objects:
+   logger_format: "%(asctime)s | %(funcName)s | %(levelname)s | %(message)s"
+   logger_date_format: "%d-%b-%y %H:%M:%S"
