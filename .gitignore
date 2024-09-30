@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.venv/
+
+# Logs
+*.log
+
+# macOS Finder files
+.DS_Store
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+
+# Pipenv / Poetry
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Temporary files
+*.tmp
+*.swp

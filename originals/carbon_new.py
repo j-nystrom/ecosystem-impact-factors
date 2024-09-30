@@ -1,9 +1,8 @@
-import glob
 import os
 
 import geopandas as gpd
 import numpy as np
-import osgeo.gdal as gdal
+from osgeo import gdal
 import pandas as pd
 import pygeoprocessing.geoprocessing as pygeo
 from osgeo import osr

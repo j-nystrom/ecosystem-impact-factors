@@ -1,4 +1,4 @@
-# Ecosystem impact factor
+# Ecosystem impact factors
 Using InVEST models to quantify and value the impact on ecosystem services from raw material production.
 
 ## Getting started
@@ -21,6 +21,8 @@ To manage the dependencies of the project, it's recommended that you use a virtu
 conda create --name <env_name> python=3.12
 conda activate <env_name>
 ```
+
+If you are using VSCode or another IDE, check that the correct Python interpreter is used. In VSCode, Open Command Palette (Cmd+Shift+P), search for "Python: Select Interpreter", and select the virtual environment you just created. 
 
 To install all dependencies, run this from the root of the project:
 
